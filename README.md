@@ -1,4 +1,4 @@
-# RO E-Commerce Website + Resume
+# RO E-Commerce Website
 
 A customizable e-commerce website for a RO (Reverse Osmosis) water purifier company. Built using PHP, HTML, CSS, JavaScript, and MySQL.
 
